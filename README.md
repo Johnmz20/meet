@@ -1,10 +1,10 @@
 <h1>Meet App</h1>
 
-<h2>Feature 1: Filter Events By City</h2>
+<h3>Feature 1: Filter Events By City</h3>
 
-- Given: The user has launched the application and is on the events listing page.
-- When: The user selects a city from the available city options in the filter menu.
-- Then: The events listing page refreshes, showing only the events located in the selected city.
+* Given: The user has launched the application and is on the events listing page.
+* When: The user selects a city from the available city options in the filter menu.
+* Then: The events listing page refreshes, showing only the events located in the selected city.
 
 <h2>Feature 2: Show/Hide Event Details</h2>
 
