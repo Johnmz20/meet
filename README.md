@@ -35,3 +35,7 @@
 - Given: The user is viewing the event details page.
 - When: The user taps on a "View Charts" button.
 - Then: The application retrieves relevant data and generates visually appealing charts about the event data.
+
+### Serverless
+
+- For my Meet App I will be using serverless functions, the reason being that it's a real-time Responsiveness that is crucial for this App. Since serverless functions can handle heavy amounts of traffic in its server it means that the applications will have no problem receiving on-time response from a very large user base. since the app events are dependent on where these events are held the serverless functions can easily integrate with the geolocation service of the location of the user's interest
